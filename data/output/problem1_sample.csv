@@ -1,0 +1,11 @@
+log_entry,log_level
+15/09/01 18:17:24 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 48147,INFO
+15/09/01 18:17:28 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 53095,INFO
+15/09/01 18:17:27 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 52141,INFO
+"15/09/01 18:14:45 INFO spark.SecurityManager: Changing view acls to: yarn,yxsu",INFO
+15/09/01 18:17:24 INFO executor.Executor: Running task 50758.0 in stage 0.0 (TID 48620),INFO
+"15/09/01 18:17:14 INFO rdd.BinaryFileRDD: Input split: Paths:/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00063331.JPEG:0+121488,/yxsu/dataset/ImageNet/ILSVRC2012_img_test/ILSVRC2012_test_00063362.JPEG:0+173881",INFO
+15/09/01 18:17:14 INFO executor.Executor: Finished task 39110.0 in stage 0.0 (TID 37355). 1835 bytes result sent to driver,INFO
+15/09/01 18:16:58 INFO executor.Executor: Running task 19118.0 in stage 0.0 (TID 17913),INFO
+15/09/01 18:17:22 INFO executor.Executor: Finished task 48294.0 in stage 0.0 (TID 46353). 1835 bytes result sent to driver,INFO
+16/04/07 10:45:55 INFO storage.MemoryStore: MemoryStore started with capacity 27.8 GB,INFO
