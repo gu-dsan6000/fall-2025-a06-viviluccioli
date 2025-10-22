@@ -4,7 +4,7 @@
 
 This analysis examines 2.8GB of production Spark logs from 194 applications across 6 YARN clusters (2015-2017). Key findings:
 
-- **Cluster Health**: 99.92% INFO-level logs indicate excellent operational health with only 0.04% errors
+- **Cluster Health**: 99.92% INFO-level logs indicate great operational health with only 0.04% errors
 - **Usage Pattern**: Clear production adoption from testing (2015-2016) to heavy production use (2017) with 142 applications
 - **Performance**: Distributed processing achieved 900x throughput improvement, processing 33M+ log lines in 9.6 minutes
 - **Workload**: Mixed complexity with median 2-minute jobs and long-tail distribution up to 3 hours
