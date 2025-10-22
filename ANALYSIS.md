@@ -1,4 +1,4 @@
-# Spark Log Analysis Report
+# Assignment 6: Spark Log Analysis
 
 ## Executive Summary
 
@@ -11,6 +11,24 @@ This analysis examines 2.8GB of production Spark logs from 194 applications acro
 
 The dataset reveals a healthy, stable Spark cluster successfully handling diverse ML workloads, primarily ImageNet processing.
 
+**Note**: The output files for the assignment scripts can be found in the data/outputs folder. For your simplicity, you can access them by clicking here: 
+
+**Source Code**
+
+- [problem1.py](problem1.py) - Log level distribution analysis script
+- [problem2.py](problem2.py) - Cluster usage analysis script
+
+**Problem 1 Outputs**
+
+- [Problem 1 Summary](data/output/problem1_summary.txt)
+- [Problem 1 Counts CSV](data/output/problem1_counts.csv)
+- [Problem 1 Sample CSV](data/output/problem1_sample.csv)
+
+**Problem 2 Outputs**
+
+- [Problem 2 Cluster Summary](data/output/problem2_cluster_summary.csv)
+- [Problem 2 Stats](data/output/problem2_stats.txt)
+- [Problem 2 Timeline CSV](data/output/problem2_timeline.csv)
 
 ## Problem 1: Log Level Distribution
 
